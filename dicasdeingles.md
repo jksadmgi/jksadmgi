@@ -8,3 +8,5 @@
 jksadmgi/jksadmgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Estou criando um app aqui para meu site dicas de inglês https://dicasdeingles.net/ e este site github vai me ajudar a buscar ferramentas para criar meu app
